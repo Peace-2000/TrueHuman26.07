@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Diğer global stilleriniz */
+nav img {
+    height: 100%; /* Logonun yüksekliğini navbarın yüksekliğine eşitle */
+    width: auto; /* Genişliği otomatik ayarla */
+  }
+  
